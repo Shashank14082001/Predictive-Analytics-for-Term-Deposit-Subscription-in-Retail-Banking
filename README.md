@@ -1,1 +1,2 @@
 # Predictive-Analytics-for-Term-Deposit-Subscription-in-Retail-Banking
+This project entails developing a machine learning model to predict customer subscription to term deposits using client and call data. It aims to optimize telephonic marketing efforts by targeting the most promising customers, thus enhancing efficiency and reducing costs for a retail banking institution. The project involves data preprocessing, exploratory data analysis, model training, evaluation, and deployment.
